@@ -6,11 +6,11 @@ header-img: img/home-bg.jpg
 email: ethan.clark.hilton@gatech.edu
 email: pgriffiths3@gatech.edu
 description: "Write your site description here. It will be used as your sites meta description as well!"
-baseurl: "/microparticle-distribution"
+baseurl: "/Microparticle-distribution"
 url: "http://ehilton3.github.io"
 github_username:  ehilton3
-project_repository: microparticle-distribution
-disqus_shortname: microparticle-distribution
+project_repository: Microparticle-distribution
+disqus_shortname: Microparticle-distribution
 
 # Build settings
 # Don't change these variables
