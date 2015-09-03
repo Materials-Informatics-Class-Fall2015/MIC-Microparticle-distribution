@@ -1,6 +1,6 @@
 # Site settings
 
-title: Microparticle Distribution in Cellulose Acetate Membranes Munifactured Using Slot-Die Extrusion
+title: Project Pages
 header-img: img/home-bg.jpg
 email: your-email@yourdomain.com
 description: "Write your site description here. It will be used as your sites meta description as well!"
@@ -8,6 +8,7 @@ baseurl: "/project-pages"
 url: "http://matin-hub.github.io"
 github_username:  matin-hub
 project_repository: project-pages
+disqus_shortname: project-pages
 
 # Build settings
 # Don't change these variables
