@@ -1,17 +1,19 @@
 # Members
 
-- name: Ahmet Cecen
-  role: Data Scientist / Material Informatics
+- name: Ethan Hilton
+  role: Engineering Design / Design Methods Research
   img: https://avatars1.githubusercontent.com/u/7231251?v=3&s=460
-  github: ahmetcecen
-  gplus: https://plus.google.com/+AhmetCecen-GPlus
-  bio: Ahmet Cecen is currently pursuing a PhD in Computational Science and Engineering at Georgia Institute of Technology.  He earned a bachelor’s degree in Mechanical Engineering at Drexel University. Ahmet has been doing research in the fields of computational materials science and materials informatics for the past 6 years, throughout his undergraduate and graduate studies. His current research focus is on leveraging statistical analysis and machine learning tools to solve big data analytics problems in materials science. 
-  url: http://ahmetcecen.github.io/
+  github: ehilton3
+  gplus: 
+  bio: Ethan is currenly pursuing a PhD in Mechanical Engineering at the Georgia Institute of Technology. He received a Bachelor's degree in Mechancical Engineering from Louisiana Tech University in 2014. Since coming to Georgia Tech, Ethan has been researching Engineering Design Methods and Applications as a part of the IDREEM Lab. His research focuses on design methods as they are practiced by experienced designers and how they can be implemented into Engineering Curriculum. He is currently working on a project evaluating different methods of teaching students free-hand sketching and how these skills impact their design abilities.
+  
+  url: https://www.sites.google.com/site/idreemlaboratory/people/ethan-hilton
    
-- name: David Brough
-  role: Data Scientist / Material Informatics
+- name: Peter Griffiths
+  role: 
   img: https://avatars0.githubusercontent.com/u/4368625?v=3&s=460
-  github: davidbrough1
-  bio: David is a PhD student in the School of Computational Science and Engineering at Georgia Institute of Technology. David earned a Master’s degree in experimental condensed matter physics at Brigham Young University where he fabricated and characterized thin-films and carbon nanotubes used in nanostructured high capacity battery electrodes and in X-ray windows. As an undergraduate, David studied theoretical physics and researched the evolution of chaotic systems using neural networks at Westminster College. He is a trainee in the NSF IGERT FLAMEL program, and one of the lead developers on PyMKS materials informatics toolkit.
-  url: http://davidbrough.net 
+  github: pgriffiths3
+  bio:  Peter is a PhD student...
+  
+  url: 
   
