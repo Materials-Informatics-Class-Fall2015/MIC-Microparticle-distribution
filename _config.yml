@@ -6,11 +6,11 @@ header-img: img/home-bg.jpg
 email: ethan.clark.hilton@gatech.edu
 email: pgriffiths3@gatech.edu
 description: "Write your site description here. It will be used as your sites meta description as well!"
-baseurl: "/project-pages"
+baseurl: "/microparticle-distribution"
 url: "http://matin-hub.github.io"
 github_username:  matin-hub
-project_repository: project-pages
-disqus_shortname: project-pages
+project_repository: microparticle-distribution
+disqus_shortname: microparticle-distribution
 
 # Build settings
 # Don't change these variables
