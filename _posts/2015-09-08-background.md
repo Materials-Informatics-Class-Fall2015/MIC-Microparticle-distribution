@@ -3,7 +3,7 @@ layout:     	post
 title:      	Background
 date:       	2015-09-08 12:58
 author:     pgriffiths3
-tags:         result
+tags:         
 ---
 Polymer mirco/nano particle composite membranes and films have multiple applications ranging from water filtration to catalysts to paints. The particle distributions within these membranes can have critical importance to their properties and performance.
 
