@@ -6,7 +6,7 @@ header-img: img/reconstructed_2.png
 email: ethan.clark.hilton@gatech.edu
 email: pgriffiths3@gatech.edu
 description: "Exploring the effects of changes during the slot-die extrusion manufacturing process on the microparticle distribution in cellulose acetate membranes."
-baseurl: "/Microparticle-distribution"
+baseurl: "/MIC-Microparticle-distribution"
 url: "http://ehilton3.github.io"
 github_username:  ehilton3
 project_repository: Microparticle-distribution
