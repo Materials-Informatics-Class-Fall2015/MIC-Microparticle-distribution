@@ -29,9 +29,12 @@ The choice of coating material and speed limitations of the slot-die roll-to-rol
 
 For the sample production, a constant target film thickness of *h* = 400 microns was selected to help increase the margins between the two defect lines (initial runs were tried at 300 microns but it was not possible to get a range of defect free coatings). The speed was set to *u_w* = 0.4 mm/s (fluctuations occured during testing) and the volumetric flow rate was to *Q'* = 0.115 mm^2/s. The gap height was varied from a low of 200 microns to a high of 500 microns after which defects occurred. The table below summarizes the results.
  
- # Tables
-Here | is | a | row!
-|---------|:----------|:----------:|---------:|
-is   |Left|  Center  |Right|
-a    | cut | it | A
-column  | short | B | C
+Run | H | u 	| Q'	 | h 	| h/H
+| mm | mm/s | mm^2/s | 
+1 | 300 | 0.388 | 0.115 | 0.448 | 1.49
+2 | 400 | 0.365 | 0.115 | 0.422 | 1.05
+3 | 500 | 0.350 | 0.115 | 0.404 | 0.808
+4 | 200 | 0.350 | 0.115 | 0.404 | 1.95
+5 | 100 | 0.350 | 0.115 | 0.404 | 4.04
+
+Due to the difficulty coating at the air entrainment boundary, the gap height ratios were higher that originally planned. It will be interesting to see how this affects the results!
