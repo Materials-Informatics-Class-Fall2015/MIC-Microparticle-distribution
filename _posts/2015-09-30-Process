@@ -31,7 +31,7 @@ For the sample production, a constant target film thickness of *h* = 400 microns
  
 Run | H | u 	| Q'	 | h 	| h/H
 |:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| mm | mm/s | mm^2/s | 
+ | mm | mm/s | mm^2/s | 
 1 | 300 | 0.388 | 0.115 | 0.448 | 1.49
 2 | 400 | 0.365 | 0.115 | 0.422 | 1.05
 3 | 500 | 0.350 | 0.115 | 0.404 | 0.808
