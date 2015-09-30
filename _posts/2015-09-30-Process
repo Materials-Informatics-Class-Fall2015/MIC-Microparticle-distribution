@@ -7,3 +7,14 @@ tags:
 ---
 One of the main advantages of slot-die extrusion is that film thickness is easily controlled by the flow rate into the die and the substrate velocity:
 
+$$ h = Q'/u_w $$
+
+where $$Q'$$ is the volumetric flow rate per unit width of the die, $$u_w$$ is the substrate speed, and $$h$$ is the wet film thickness. So for a given $$h$$ there is an infinite combination of $$Q'$$ and $$u_w$$. So how do you choose where to process?
+
+There are physical limits on the setting combinations before defects such as air entrainment or break lines or process unsteadiness such as dripping occur. The region in which defect production can occur is called the coating or casting window. 
+
+![Coating window with constant film thickness line](https://github.com/Materials-Informatics-Class-Fall2015/MIC-Microparticle-distribution/blob/gh-pages/img/Coating_Window.png?raw=true)
+
+The figure above is a typical representation of the coating window with a line added for a  constant film thickness. However, this is only a single slice of the coating window as it also varies with the offset or gap height of the die above the substrate, $$H$$.
+
+WORK IN PROGRESS
