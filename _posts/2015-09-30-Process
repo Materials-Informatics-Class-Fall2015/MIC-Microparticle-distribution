@@ -9,12 +9,29 @@ One of the main advantages of slot-die extrusion is that film thickness is easil
 
 $$ h = Q'/u_w $$
 
-where $$Q'$$ is the volumetric flow rate per unit width of the die, $$u_w$$ is the substrate speed, and $$h$$ is the wet film thickness. So for a given $$h$$ there is an infinite combination of $$Q'$$ and $$u_w$$. So how do you choose where to process?
+where *Q'* is the volumetric flow rate per unit width of the die, *u_w* is the substrate speed, and *h* is the wet film thickness. So for a given *h* there is an infinite combination of *Q'* and *u_w*. So how do you choose where to process?
 
-There are physical limits on the setting combinations before defects such as air entrainment or break lines or process unsteadiness such as dripping occur. The region in which defect production can occur is called the coating or casting window. 
+There are physical limits on the setting combinations before defects such as air entrainment and break lines or process unsteadiness such as dripping occur due to the coating material properties. The region in which defect free production can occur is called the coating or casting window. 
 
 ![Coating window with constant film thickness line](https://github.com/Materials-Informatics-Class-Fall2015/MIC-Microparticle-distribution/blob/gh-pages/img/Coating_Window.png?raw=true)
 
-The figure above is a typical representation of the coating window with a line added for a  constant film thickness. However, this is only a single slice of the coating window as it also varies with the offset or gap height of the die above the substrate, $$H$$.
+The figure above is a typical representation of the coating window with a line added for a  constant film thickness. It is important to note that the edges of the coating window of this representation are dependent with the offset or gap height of the die above the substrate, *H*, and therefore this it is only a slice of the 3D region of the coating window. 
 
-WORK IN PROGRESS
+![Coating window as a function of speed and height ratio](https://github.com/Materials-Informatics-Class-Fall2015/MIC-Microparticle-distribution/blob/gh-pages/img/Coating_Window_ratio.png?raw=true)
+
+Since we know the film thickness desired and it relationship to *Q'* and *u_W*, it is helpful during processing to have a representation of the coating window as only a function of speed and gap height. This is shown in the figure above with the gap height ratio since this is what we want to explore. The slower the speed the more margin between the two defect lines and the larger the range of height ratios that we can explore without causing defects in the membrane. 
+
+As introduced in a previous post, [Project Plan](http://materials-informatics-class-fall2015.github.io/MIC-Microparticle-distribution/2015/09/08/Project_Plan/), the velocity profile and therefor shear profile under the downstream die is a function of the height ratio. However the magnitude of the velocity and the shear is directly proportional to the substrate speed. So the larger the substrate speed, the larger the maximum shear, and therefore the larger the forces acting on the the particles. 
+
+So once again we come back to the original question since we have competing interests between the range of profiles and the magnitude of the forces with speed. Where do we want to process? 
+
+The choice of coating material and speed limitations of the slot-die roll-to-roll system used help simplify this choice for us. The air entrainment line can be found to be a function of the capillary number, which relates the relative influence of viscous to surface tension forces. Since NMP 20% CA has a relatively large constancy index as compared its surface tension, the speed at which we process must be kept low to avoid air entrainment. The lowest speed at which our system can currently be set reliably is ~0.4 mm/s and this was chosen so that a range of height ratios could be run before dripping would occur.
+
+For the sample production, a constant target film thickness of *h* = 400 microns was selected to help increase the margins between the two defect lines (initial runs were tried at 300 microns but it was not possible to get a range of defect free coatings). The speed was set to *u_w* = 0.4 mm/s (fluctuations occured during testing) and the volumetric flow rate was to *Q'* = 0.115 mm^2/s. The gap height was varied from a low of 200 microns to a high of 500 microns after which defects occurred. The table below summarizes the results.
+ 
+ # Tables
+Here | is | a | row!
+|---------|:----------|:----------:|---------:|
+is   |Left|  Center  |Right|
+a    | cut | it | A
+column  | short | B | C
