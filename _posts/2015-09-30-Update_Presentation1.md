@@ -3,7 +3,7 @@ layout:     	post
 title:      	Update Presentation 1
 date:       	2015-09-14 10:55
 author:     	Ethan Hilton
-tags:         result
+tags:        
 ---
 
 #Update Presentation 1
