@@ -2,7 +2,7 @@
 layout:     	slide
 title:     	Update Presentation 2
 date:      	2015-10-05 18:01
-author:     	Peter Griffiths Ethan Hilton
+author:     	Peter Griffiths and Ethan Hilton
 
 theme:		night # default/beige/blood/moon/night/serif/simple/sky/solarized
 trans:		default # default/cube/page/concave/zoom/linear/fade/none
