@@ -35,7 +35,13 @@ Find process-structure Linkage between the slot-die manufacturing process of thi
 #Inputs and Outputs
 
 <!-- End Here -->
+{{ page.vertical }}
+<!-- Start Writing Below in Markdown -->
 
+#Inputs
+1. 
+
+<!-- End Here -->
 
 {{ page.horizontal }}
 <!-- Start Writing Below in Markdown -->
