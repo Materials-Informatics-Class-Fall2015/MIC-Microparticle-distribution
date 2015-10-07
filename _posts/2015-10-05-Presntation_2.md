@@ -25,34 +25,37 @@ vertical:		</section><section markdown="1">
 ## GOAL
 Find process-structure Linkage between the slot-die manufacturing process of thin-film membranes containing microparticles and the distribution of those microparticles within the film.
 
-![Description](https://github.com/Materials-Informatics-Class-Fall2015/MIC-Microparticle-distribution/blob/gh-pages/img/Presentation2/Picture1.png?raw=true)
-
-
-
-
-
-
-
-
-
+![Process to Structure](https://github.com/Materials-Informatics-Class-Fall2015/MIC-Microparticle-distribution/blob/gh-pages/img/Presentation2/Picture1.png?raw=true)
 
 <!-- End Here -->
 {{ page.horizontal }}
 <!-- Start Writing Below in Markdown -->
 
 
-
-
-
-
-
-
-
-
+#Inputs and Outputs
 
 <!-- End Here -->
 
 {{ page.horizontal }}
+
+{{ page.horizontal }}
+<!-- Start Writing Below in Markdown -->
+
+
+horizontal page
+
+<!-- End Here -->
+
+{{ page.horizontal }}
+
+{{ page.vertical }}
+<!-- Start Writing Below in Markdown -->
+
+vertical page
+
+<!-- End Here -->
+
+{{ page.vertical }}
 
 #[Print]({{ site.url }}{{ site.baseurl }}{{ page.url }}/?print-pdf#)
 
