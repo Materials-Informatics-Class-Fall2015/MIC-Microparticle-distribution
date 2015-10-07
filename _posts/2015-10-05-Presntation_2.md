@@ -42,12 +42,52 @@ Find process-structure Linkage between the slot-die manufacturing process of thi
 1. 
 
 <!-- End Here -->
+{{ page.vertical }}
+<!-- Start Writing Below in Markdown -->
+
+#Constants
+1. 
+
+<!-- End Here -->
+
+{{ page.vertical }}
+<!-- Start Writing Below in Markdown -->
+
+#Outputs
+1. 
+
+<!-- End Here -->
 
 {{ page.horizontal }}
 <!-- Start Writing Below in Markdown -->
 
 
-horizontal page
+#Workflow
+
+<!-- End Here -->
+
+{{ page.horizontal }}
+<!-- Start Writing Below in Markdown -->
+
+
+#Micro CT
+
+<!-- End Here -->
+
+{{ page.vertical}}
+<!-- Start Writing Below in Markdown -->
+
+
+#Image Processing
+
+
+<!-- End Here -->
+
+{{ page.horizontal }}
+<!-- Start Writing Below in Markdown -->
+
+
+#Statistical Approach
 
 <!-- End Here -->
 
@@ -55,11 +95,59 @@ horizontal page
 {{ page.vertical }}
 <!-- Start Writing Below in Markdown -->
 
-vertical page
+layers
+
+<!-- End Here -->
+
+{{ page.horizontal}}
+<!-- Start Writing Below in Markdown -->
+
+#Validation
 
 <!-- End Here -->
 
 {{ page.vertical }}
+<!-- Start Writing Below in Markdown -->
+
+#MATLab-Generated Samples
+
+<!-- End Here -->
+
+{{ page.vertical }}
+<!-- Start Writing Below in Markdown -->
+
+#Two-point Statistics
+
+<!-- End Here -->
+
+{{ page.horizontal}}
+<!-- Start Writing Below in Markdown -->
+
+#Current Work and Issues
+
+1.
+
+
+<!-- End Here -->
+
+{{ page.vertical }}
+<!-- Start Writing Below in Markdown -->
+
+#SAMPLE IMAGES
+(aquired this morning)
+
+
+
+<!-- End Here -->
+
+
+
+{{ page.horizontal}}
+
+
+
+
+
 
 #[Print]({{ site.url }}{{ site.baseurl }}{{ page.url }}/?print-pdf#)
 
