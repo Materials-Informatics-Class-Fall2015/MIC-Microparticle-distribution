@@ -36,7 +36,6 @@ Find process-structure Linkage between the slot-die manufacturing process of thi
 
 <!-- End Here -->
 
-{{ page.horizontal }}
 
 {{ page.horizontal }}
 <!-- Start Writing Below in Markdown -->
@@ -46,7 +45,6 @@ horizontal page
 
 <!-- End Here -->
 
-{{ page.horizontal }}
 
 {{ page.vertical }}
 <!-- Start Writing Below in Markdown -->
