@@ -52,6 +52,10 @@ Find process-structure Linkage between the slot-die manufacturing process of thi
 
 #Constants
 1. Volume Fraction
+2. W
+3. Flow rate
+
+<!insert slot die pic>
 
 <!-- End Here -->
 
@@ -59,7 +63,10 @@ Find process-structure Linkage between the slot-die manufacturing process of thi
 <!-- Start Writing Below in Markdown -->
 
 #Outputs
-1. 
+1. Particle Location
+2. Volume Fraction
+
+<!pic of side view
 
 <!-- End Here -->
 
@@ -69,6 +76,7 @@ Find process-structure Linkage between the slot-die manufacturing process of thi
 
 #Workflow
 
+pic of workflow
 <!-- End Here -->
 
 {{ page.horizontal }}
@@ -77,6 +85,7 @@ Find process-structure Linkage between the slot-die manufacturing process of thi
 
 #Micro CT
 
+pic of 3D to 2d
 <!-- End Here -->
 
 {{ page.vertical}}
@@ -85,6 +94,7 @@ Find process-structure Linkage between the slot-die manufacturing process of thi
 
 #Image Processing
 
+pic
 
 <!-- End Here -->
 
@@ -93,14 +103,14 @@ Find process-structure Linkage between the slot-die manufacturing process of thi
 
 
 #Statistical Approach
-
+How do we deal with particle-distribution gradients?
 <!-- End Here -->
 
 
 {{ page.vertical }}
 <!-- Start Writing Below in Markdown -->
 
-layers
+pic of stst proc layers
 
 <!-- End Here -->
 
@@ -115,6 +125,7 @@ layers
 <!-- Start Writing Below in Markdown -->
 
 #MATLab-Generated Samples
+pic
 
 <!-- End Here -->
 
@@ -122,6 +133,7 @@ layers
 <!-- Start Writing Below in Markdown -->
 
 #Two-point Statistics
+pic
 
 <!-- End Here -->
 
@@ -130,7 +142,10 @@ layers
 
 #Current Work and Issues
 
-1.
+1. Processing and Collection of CT Data
+2. Feature size identification routines
+3. Curvature in samples
+4. depth of field/identifying particles over multiple images
 
 
 <!-- End Here -->
@@ -140,7 +155,7 @@ layers
 
 #SAMPLE IMAGES
 (aquired this morning)
-
+pic
 
 
 <!-- End Here -->
