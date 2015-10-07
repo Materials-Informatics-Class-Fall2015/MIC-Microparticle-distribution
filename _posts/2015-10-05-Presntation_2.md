@@ -23,7 +23,7 @@ vertical:		</section><section markdown="1">
 <!-- Start Writing Below in Markdown -->
 
 ## GOAL
-### Find process-structure Linkage between the slot-die manufacturing process of thin-film membranes containing microparticles and the distribution of those microparticles within the film.
+Find process-structure Linkage between the slot-die manufacturing process of thin-film membranes containing microparticles and the distribution of those microparticles within the film.
 
 
 
