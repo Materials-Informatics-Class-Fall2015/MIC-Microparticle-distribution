@@ -25,7 +25,7 @@ vertical:		</section><section markdown="1">
 ## GOAL
 Find process-structure Linkage between the slot-die manufacturing process of thin-film membranes containing microparticles and the distribution of those microparticles within the film.
 
-![Process to Structure](https://github.com/Materials-Informatics-Class-Fall2015/MIC-Microparticle-distribution/blob/gh-pages/img/Presentation2/Picture1.png?raw=true)
+![pic1.1](https://github.com/Materials-Informatics-Class-Fall2015/MIC-Microparticle-distribution/blob/gh-pages/img/Presentation2/Picture1.1.png?raw=true)
 
 <!-- End Here -->
 {{ page.horizontal }}
@@ -44,7 +44,8 @@ Find process-structure Linkage between the slot-die manufacturing process of thi
 3. Shape of Particle
 4. Substrate Speed**
 
-<!add pic of slot die>
+
+![pic2](https://github.com/Materials-Informatics-Class-Fall2015/MIC-Microparticle-distribution/blob/gh-pages/img/Presentation2/Picture2.png?raw=true)
 
 <!-- End Here -->
 {{ page.vertical }}
@@ -55,8 +56,7 @@ Find process-structure Linkage between the slot-die manufacturing process of thi
 2. W
 3. Flow rate
 
-<!insert slot die pic>
-
+![pic2](https://github.com/Materials-Informatics-Class-Fall2015/MIC-Microparticle-distribution/blob/gh-pages/img/Presentation2/Picture2.png?raw=true)
 <!-- End Here -->
 
 {{ page.vertical }}
@@ -66,7 +66,7 @@ Find process-structure Linkage between the slot-die manufacturing process of thi
 1. Particle Location
 2. Volume Fraction
 
-<!pic of side view
+![pic_h_H_050_state](https://github.com/Materials-Informatics-Class-Fall2015/MIC-Microparticle-distribution/blob/gh-pages/img/Presentation2/h_H_050_state.jpg?raw=true)
 
 <!-- End Here -->
 
@@ -76,7 +76,9 @@ Find process-structure Linkage between the slot-die manufacturing process of thi
 
 #Workflow
 
-pic of workflow
+![pic6](https://github.com/Materials-Informatics-Class-Fall2015/MIC-Microparticle-distribution/blob/gh-pages/img/Presentation2/Picture6.png?raw=true)
+
+
 <!-- End Here -->
 
 {{ page.horizontal }}
@@ -85,7 +87,8 @@ pic of workflow
 
 #Micro CT
 
-pic of 3D to 2d
+![pic8](https://github.com/Materials-Informatics-Class-Fall2015/MIC-Microparticle-distribution/blob/gh-pages/img/Presentation2/Picture8.png?raw=true)
+
 <!-- End Here -->
 
 {{ page.vertical}}
@@ -94,7 +97,8 @@ pic of 3D to 2d
 
 #Image Processing
 
-pic
+![pic5](https://github.com/Materials-Informatics-Class-Fall2015/MIC-Microparticle-distribution/blob/gh-pages/img/Presentation2/Picture5.png?raw=true)
+
 
 <!-- End Here -->
 
@@ -110,7 +114,7 @@ How do we deal with particle-distribution gradients?
 {{ page.vertical }}
 <!-- Start Writing Below in Markdown -->
 
-pic of stst proc layers
+![pic_stat_proc_layers]()
 
 <!-- End Here -->
 
@@ -125,7 +129,8 @@ pic of stst proc layers
 <!-- Start Writing Below in Markdown -->
 
 #MATLab-Generated Samples
-pic
+![pic9](https://github.com/Materials-Informatics-Class-Fall2015/MIC-Microparticle-distribution/blob/gh-pages/img/Presentation2/Picture9.png?raw=true)
+
 
 <!-- End Here -->
 
@@ -133,7 +138,8 @@ pic
 <!-- Start Writing Below in Markdown -->
 
 #Two-point Statistics
-pic
+![pic10](https://github.com/Materials-Informatics-Class-Fall2015/MIC-Microparticle-distribution/blob/gh-pages/img/Presentation2/Picture10.png?raw=true)
+
 
 <!-- End Here -->
 
@@ -155,7 +161,8 @@ pic
 
 #SAMPLE IMAGES
 (aquired this morning)
-pic
+![pic7](https://github.com/Materials-Informatics-Class-Fall2015/MIC-Microparticle-distribution/blob/gh-pages/img/Presentation2/Picture7.png?raw=true)
+
 
 
 <!-- End Here -->
