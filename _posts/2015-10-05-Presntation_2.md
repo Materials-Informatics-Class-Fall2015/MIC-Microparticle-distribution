@@ -114,7 +114,7 @@ How do we deal with particle-distribution gradients?
 {{ page.vertical }}
 <!-- Start Writing Below in Markdown -->
 
-![pic_stat_proc_layers]()
+![pic_stat_proc_layers](https://github.com/Materials-Informatics-Class-Fall2015/MIC-Microparticle-distribution/blob/gh-pages/img/Presentation2/stat_proc_layers2.png?raw=true)
 
 <!-- End Here -->
 
