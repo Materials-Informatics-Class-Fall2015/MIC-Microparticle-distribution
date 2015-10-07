@@ -39,14 +39,19 @@ Find process-structure Linkage between the slot-die manufacturing process of thi
 <!-- Start Writing Below in Markdown -->
 
 #Inputs
-1. 
+1. h/H
+2. Particle Size (4 - 22 microns, avg = 9 microns)
+3. Shape of Particle
+4. Substrate Speed**
+
+<!add pic of slot die>
 
 <!-- End Here -->
 {{ page.vertical }}
 <!-- Start Writing Below in Markdown -->
 
 #Constants
-1. 
+1. Volume Fraction
 
 <!-- End Here -->
 
