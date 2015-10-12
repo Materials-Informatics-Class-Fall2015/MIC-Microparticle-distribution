@@ -1,7 +1,7 @@
 ---
 layout:     	post
 title:      	Update Presentation 2 (Blog post for comments)
-date:       	2015-01-01 12:00
+date:       	2015-10-7 16:312015-01-01 12:00
 author:     	Peter Griffith
 tags:         
 ---
