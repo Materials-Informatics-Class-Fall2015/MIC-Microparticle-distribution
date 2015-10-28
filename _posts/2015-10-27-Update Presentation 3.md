@@ -36,8 +36,8 @@ In our last presentation...
 
 {{page.vertical}}
 <!-- Start -->
-![pic1.1](https://github.com/Materials-Informatics-Class-Fall2015/MIC-Microparticle-distribution/blob/gh-pages/img/Pres3%20pics/Picture2.1.2.jpg?raw=true)
-![pic1.1](https://github.com/Materials-Informatics-Class-Fall2015/MIC-Microparticle-distribution/blob/gh-pages/img/Pres3%20pics/Picture2.2.jpg?raw=true)
+![pic1.1](https://github.com/Materials-Informatics-Class-Fall2015/MIC-Microparticle-distribution/blob/gh-pages/img/Pres3%20pics/Picture2.3.jpg?raw=true)
+
 <!-- Stop -->
 
 {{page.vertical}}
@@ -52,7 +52,7 @@ In our last presentation...
 
 <!-- Stop -->
 
-{{page.hotizontal}}
+{{page.horizontal}}
 <!-- Start -->
 
 ##Difficulties Processing Data
