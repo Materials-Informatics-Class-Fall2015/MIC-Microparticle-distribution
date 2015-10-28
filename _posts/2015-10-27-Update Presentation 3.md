@@ -94,6 +94,7 @@ Before and after linear contrasting
  - Found edges in all three directions
  - Summed gradient values
  - Create separate binary edge matrix
+
 ![img](https://github.com/Materials-Informatics-Class-Fall2015/MIC-Microparticle-distribution/blob/gh-pages/img/Pres3%20pics/Picture6.1.jpg?raw=true)
 
 {{ page.vertical }}
@@ -108,6 +109,7 @@ Before and after linear contrasting
  - Threshold based upon surface value (R = 1, <5)
  - Update binary edge matrix
  - Increase then decrease radius
+
 ![img](https://github.com/Materials-Informatics-Class-Fall2015/MIC-Microparticle-distribution/blob/gh-pages/img/Pres3%20pics/Picture7.1.jpg?raw=true)
 
 {{ page.vertical }}
@@ -121,6 +123,7 @@ Before and after linear contrasting
  - Large amount of edges found in solids
  - Closing image to highlight solids
  - Working on statistical means to determine proper radius
+
 ![img](https://github.com/Materials-Informatics-Class-Fall2015/MIC-Microparticle-distribution/blob/gh-pages/img/Pres3%20pics/Picture8.1.jpg?raw=true)
 
 {{ page.vertical }}
@@ -129,7 +132,33 @@ Before and after linear contrasting
 
 {{ page.horizontal }}
 
-##
+##Masking Image
+
+ - Use binary matrix to mask data
+ - Highlight the solids (membrane and fixture)
+
+![img](https://github.com/Materials-Informatics-Class-Fall2015/MIC-Microparticle-distribution/blob/gh-pages/img/Pres3%20pics/Picture9.0.jpg?raw=true)
+
+{{ page.horizontal }}
+
+##Next Steps
+Issues with some of the data files...
+
+ - Orientation
+ - Cropping
+ - Containments
+
+![img](https://github.com/Materials-Informatics-Class-Fall2015/MIC-Microparticle-distribution/blob/gh-pages/img/Pres3%20pics/Picturez10.1.jpg?raw=true)
+
+{{ page.vertical }}
+
+##Other issues to address
+
+ - Filter out Fixtures
+ - Phase identification
+ - Corrections for curvature
+
+![img](https://github.com/Materials-Informatics-Class-Fall2015/MIC-Microparticle-distribution/blob/gh-pages/img/Pres3%20pics/Picturez10.2.jpg?raw=true)
 
 {{ page.horizontal }}
 
