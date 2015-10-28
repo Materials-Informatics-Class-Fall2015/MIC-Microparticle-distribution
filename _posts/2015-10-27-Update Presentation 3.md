@@ -87,9 +87,11 @@ Before and after linear contrasting
 	 - Less edges detected
 
 ![img](https://github.com/Materials-Informatics-Class-Fall2015/MIC-Microparticle-distribution/blob/gh-pages/img/Pres3%20pics/Picture5.1.jpg?raw=true)
+
 {{ page.vertical }}
 
 ![img](https://github.com/Materials-Informatics-Class-Fall2015/MIC-Microparticle-distribution/blob/gh-pages/img/Pres3%20pics/Picture5.2.jpg?raw=true)
+
 {{ page.horizontal }}
 
 ##Edge Detection
