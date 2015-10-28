@@ -1,7 +1,7 @@
 ---
 layout:     	slide
 title:     	Update Presentation 3
-date:      	2015-10-27 21:42
+date:      	2015-10-28 14:00
 author:     	Peter Griffiths and Ethan Hilton
 
 theme:		solarized # default/beige/blood/moon/night/serif/simple/sky/solarized
