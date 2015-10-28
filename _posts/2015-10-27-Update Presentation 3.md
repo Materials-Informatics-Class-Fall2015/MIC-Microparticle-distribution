@@ -42,7 +42,7 @@ In our last presentation...
 
 {{page.vertical}}
 <!-- Start -->
-##About the Data
+## About the Data
 5 datasets (membranes)
 
  - ~50 grayscale TIFs
