@@ -31,7 +31,7 @@ In our last presentation...
 
 {{page.vertical}}
 <!-- Start -->
-![pic1.1](https://github.com/Materials-Informatics-Class-Fall2015/MIC-Microparticle-distribution/blob/gh-pages/img/Pres3%20pics/Picture2.1.jpg?raw=true)![pic1.1]
+![pic1.1](https://github.com/Materials-Informatics-Class-Fall2015/MIC-Microparticle-distribution/blob/gh-pages/img/Pres3%20pics/Picture2.1.jpg?raw=true)
 <!-- Stop -->
 
 {{page.vertical}}
