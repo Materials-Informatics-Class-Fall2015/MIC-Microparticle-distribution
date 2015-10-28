@@ -3,7 +3,7 @@ layout:     	post
 title:      	Update Presentation 3 (Post for Comments)
 date:       	2015-10-28 15:11
 author:     	Ethan Hilton
-tags:         result
+tags:         
 ---
 ![img](https://github.com/Materials-Informatics-Class-Fall2015/MIC-Microparticle-distribution/blob/gh-pages/img/Pres3%20pics/Microparticle%20Dsitribution_Presentation%203_Griffiths_Hilton/Slide1.JPG?raw=true)
 
