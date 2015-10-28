@@ -76,7 +76,9 @@ Before and after linear contrasting
 
 {{ page.horizontal }}
 ##Intensity Range Histogram
+
 ![img](https://github.com/Materials-Informatics-Class-Fall2015/MIC-Microparticle-distribution/blob/gh-pages/img/Pres3%20pics/Picture4.jpg?raw=true)
+
 {{ page.horizontal }}
 ##Thresholding
 
