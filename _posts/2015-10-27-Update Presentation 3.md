@@ -162,9 +162,11 @@ Issues with some of the data files...
 
 {{ page.horizontal }}
 
+#Thank you!
+ Please look for the "Presentation as Post for Comments" post to add comments or ask questions! 
 
-#[Print]({{ site.url }}{{ site.baseurl }}{{ page.url }}/?print-pdf#)
+##[Print]({{ site.url }}{{ site.baseurl }}{{ page.url }}/?print-pdf#)
 
-#[Back]({{ site.url }}{{ site.baseurl }})
+##[Back]({{ site.url }}{{ site.baseurl }})
 
 </section></section>
