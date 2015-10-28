@@ -118,14 +118,14 @@ Before and after linear contrasting
 
 ##Closing around Solids
 
- - Large amount
- - Summed gradient values
- - Create separate binary edge matrix
-![img](https://github.com/Materials-Informatics-Class-Fall2015/MIC-Microparticle-distribution/blob/gh-pages/img/Pres3%20pics/Picture6.1.jpg?raw=true)
+ - Large amount of edges found in solids
+ - Closing image to highlight solids
+ - Working on statistical means to determine proper radius
+![img](https://github.com/Materials-Informatics-Class-Fall2015/MIC-Microparticle-distribution/blob/gh-pages/img/Pres3%20pics/Picture8.1.jpg?raw=true)
 
 {{ page.vertical }}
 
-![img](https://github.com/Materials-Informatics-Class-Fall2015/MIC-Microparticle-distribution/blob/gh-pages/img/Pres3%20pics/Picture6.2.jpg?raw=true)
+![img](https://github.com/Materials-Informatics-Class-Fall2015/MIC-Microparticle-distribution/blob/gh-pages/img/Pres3%20pics/Picture8.2.jpg?raw=true)
 
 {{ page.horizontal }}
 
