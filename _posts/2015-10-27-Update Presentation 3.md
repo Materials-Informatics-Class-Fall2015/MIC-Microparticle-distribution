@@ -4,7 +4,7 @@ title:     	Update Presentation 3
 date:      	2015-10-27 21:42
 author:     	Peter Griffiths and Ethan Hilton
 
-theme:		sky # default/beige/blood/moon/night/serif/simple/sky/solarized
+theme:		solarized # default/beige/blood/moon/night/serif/simple/sky/solarized
 trans:		default # default/cube/page/concave/zoom/linear/fade/none
 
 horizontal:	</section></section><section markdown="1" data-background="http://ahmetcecen.github.io/project-pages/img/slidebackground.png"><section markdown="1">
@@ -128,6 +128,8 @@ Before and after linear contrasting
 ![img](https://github.com/Materials-Informatics-Class-Fall2015/MIC-Microparticle-distribution/blob/gh-pages/img/Pres3%20pics/Picture8.2.jpg?raw=true)
 
 {{ page.horizontal }}
+
+##
 
 {{ page.horizontal }}
 
