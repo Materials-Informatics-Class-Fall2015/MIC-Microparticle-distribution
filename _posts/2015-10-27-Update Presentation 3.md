@@ -43,6 +43,7 @@ In our last presentation...
 {{page.vertical}}
 <!-- Start -->
 ## About the Data
+
 5 datasets (membranes)
 
  - ~50 grayscale TIFs
@@ -55,7 +56,7 @@ In our last presentation...
 {{page.horizontal}}
 <!-- Start -->
 
-##Difficulties Processing Data
+###Difficulties Processing Data
 
  - Background scatter
  - Empty space
