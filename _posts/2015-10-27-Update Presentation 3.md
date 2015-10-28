@@ -12,6 +12,7 @@ vertical:		</section><section markdown="1">
 ---
 <section markdown="1" data-background="http://ahmetcecen.github.io/project-pages/img/slidebackground.png"><section markdown="1">
 ## {{ page.title }}
+### Image Processing
 
 <hr>
 
