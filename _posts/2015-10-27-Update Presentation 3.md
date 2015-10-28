@@ -4,7 +4,7 @@ title:     	Update Presentation 3
 date:      	2015-10-27 21:42
 author:     	Peter Griffiths and Ethan Hilton
 
-theme:		moon # default/beige/blood/moon/night/serif/simple/sky/solarized
+theme:		sky # default/beige/blood/moon/night/serif/simple/sky/solarized
 trans:		default # default/cube/page/concave/zoom/linear/fade/none
 
 horizontal:	</section></section><section markdown="1" data-background="http://ahmetcecen.github.io/project-pages/img/slidebackground.png"><section markdown="1">
