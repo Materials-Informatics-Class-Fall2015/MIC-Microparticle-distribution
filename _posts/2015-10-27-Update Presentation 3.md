@@ -44,7 +44,7 @@ In our last presentation...
 <!-- Start -->
 
 ##About the Data
-###5 datasets (membranes)
+5 datasets (membranes)
 
  - ~50 grayscale TIFs
  - Each pixel = 6.2 microns
