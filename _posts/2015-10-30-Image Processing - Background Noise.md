@@ -55,4 +55,4 @@ Using the closed binary edge matrix the solid data is highlighted.
 ![Original](https://github.com/Materials-Informatics-Class-Fall2015/MIC-Microparticle-distribution/blob/gh-pages/img/Image%20Processing/contrast.jpg?raw=true)
 ![Masked Data](https://github.com/Materials-Informatics-Class-Fall2015/MIC-Microparticle-distribution/blob/gh-pages/img/Image%20Processing/contrastMasked.jpg?raw=true)
 
-Currently the gaps between are be filled using closing routines. However this is slow due to the large gaps needing to be filled. This is why there are currently holes in some of the pore locations. An alternative method is being worked on to improve upon this.
+Currently the gaps in the binary edge matrix are be filled using closing routines. However this is slow due to the large gaps needing to be filled (large gaps means large filter sizes and computational time grows exponentially with the radius being searched) and why there are currently holes in some of the pore locations. An alternative method is being worked on to improve upon this.
