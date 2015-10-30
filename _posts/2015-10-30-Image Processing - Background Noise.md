@@ -29,4 +29,4 @@ While the linear scaling does not help us numerically to segment the image, it d
 Background Noise
 ----------------
 
-Even with the initial thresholding done by the CT software, background scatter/noise is apparent in the image when scaled. The 
+Even with the initial thresholding done by the CT software, background scatter/noise is apparent in the image when scaled. This is because the intensity values of this noise is within in the range found inside the membrane. Since it is not of uniform intensity, edge finding routines will find 
