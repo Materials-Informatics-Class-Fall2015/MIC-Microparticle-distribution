@@ -26,4 +26,24 @@ The next step was to attempt to determine the location of the edges in the 3 dim
 
 ![Edges](https://github.com/Materials-Informatics-Class-Fall2015/MIC-Microparticle-distribution/blob/gh-pages/img/Image%20Processing/edges.jpg?raw=true)
 
-A binary matrix was then created from the edge matrix 
+False Edge Elimination
+----------------------
+
+A large number of false edges were found outside of the solids. To determine which edges were in the background and eliminate them, a binary matrix was created from the edge matrix by setting all of the values greater than 0 to 1. 
+
+![Binary Edge Matrix](https://github.com/Materials-Informatics-Class-Fall2015/MIC-Microparticle-distribution/blob/gh-pages/img/Image%20Processing/edgesBinary1.jpg?raw=true)
+
+If a voxel identified as an edge is actually on a surface, there should also be voxels around it identified as an edges. Depending upon the size of a search radius around a voxel, a minimum number of edge voxels should be found if it is actually on a surface. For example if a voxel is on a flat surface and you search the voxels with in the 3x3x3 cube centered on the voxel, 8 additional suface voxel should be found. This principle was used to eliminate the false edges.
+
+Starting with a search radius of 1, the number of edge voxels surrounding a target edge voxel was found. If the sum was less than 4, the edge voxel was eliminated from the binary edge matrix.
+
+![Edge search](https://github.com/Materials-Informatics-Class-Fall2015/MIC-Microparticle-distribution/blob/gh-pages/img/Image%20Processing/maskedAverage.jpg?raw=true)
+
+This process was repeated increasing the search radius, until no edges were eliminated. It was then decreased incrementally down to 1 to eliminate voxels near actual surfaces (due to the large number of edges found inside the solids, if the search radius is large enough it will not eliminate voxels just off the surface).
+
+![Edge search final](https://github.com/Materials-Informatics-Class-Fall2015/MIC-Microparticle-distribution/blob/gh-pages/img/Image%20Processing/maskedAverage2.jpg?raw=true)
+
+Closing
+-------
+
+With the edges confined to the solids (a few
