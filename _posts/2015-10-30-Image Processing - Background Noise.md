@@ -29,7 +29,7 @@ Image Orientation
 The orientation of the membrane in the different data sets varies. This must be corrected since the position of the particles from the top and bottom membrane surfaces is the main output of interest. This can be accomplished by simple rotations once the membrane has be identified in the images.
 Fixtures and Contaminants
 -------------------------
-The issue to correct is to eliminate the fixtures and an contaminants that were on the membrane or tape. Small dust or other particles show up as high intensity regions which could be falsely identified as glass particles if they are near the surface of the membrane. The figure below shows and example of this where a contaminant is trapped between the membrane and tape. Since the density is of these contaminants appears to be significantly higher than the glass, this should not be too difficult and issue to fix. The more significant problem is identifying and eliminating the fixtures.
+The issue to correct is to eliminate the fixtures and an contaminants that were on the membrane or tape. Small dust or other particles show up as high intensity regions which could be falsely identified as glass particles if they are near the surface of the membrane. The figure below shows and example of this where a contaminant is trapped between the membrane and tape. Since the density is of these contaminants appears to be significantly higher than the glass, this should not be too difficult and issue to fix. The most significant problem is identifying and eliminating the fixtures so that only the composite membrane remains.
 
 ![Dust example](https://github.com/Materials-Informatics-Class-Fall2015/MIC-Microparticle-distribution/blob/gh-pages/img/Image%20Processing/dust_example.jpg?raw=true)
 
