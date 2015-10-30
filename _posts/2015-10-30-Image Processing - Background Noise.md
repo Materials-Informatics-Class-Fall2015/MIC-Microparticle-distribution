@@ -28,5 +28,18 @@ While the linear scaling does not help us numerically to segment the image, it d
 
 Background Noise
 ----------------
+Even with the initial thresholding done by the CT software, background scatter/noise is apparent in the image when scaled. This is because the intensity values of this noise is within in the range found inside the membrane. Since it is not of uniform intensity, edge finding routines will find false edges other than the solid materials. Eliminating this noise will help simplify the other tasks involved in processing the image.
 
-Even with the initial thresholding done by the CT software, background scatter/noise is apparent in the image when scaled. This is because the intensity values of this noise is within in the range found inside the membrane. Since it is not of uniform intensity, edge finding routines will find 
+Empty Space
+-----------
+The region comprising the composite membrane is only a small fraction of the images. Even including the fixtures, the majority of the image is empty space comprising the background noise. This extraneous data results in longer image processing time and memory requirements and once the background has been identified, it will be cropped from the image.
+
+Image Orientation
+-----------------
+The orientation of the membrane in the different data sets varies. This must be corrected since the position of the particles from the top and bottom membrane surfaces is the main output of interest. This can be accomplished by simple rotations once the membrane has be identified in the images.
+
+Fixtures and Contaminants
+-------------------------
+The last step 
+
+
