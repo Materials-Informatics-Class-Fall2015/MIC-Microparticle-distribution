@@ -46,4 +46,15 @@ This process was repeated increasing the search radius, until no edges were elim
 Closing
 -------
 
-With the edges confined to the solids (a few
+The edges are now mostly confined to the solids (a few may be missed in space than will be corrected for later). By eliminating the gaps, the solid image data can be highlighted.
+
+![Closed Image](https://github.com/Materials-Informatics-Class-Fall2015/MIC-Microparticle-distribution/blob/gh-pages/img/Image%20Processing/closed.jpg?raw=true)
+
+Currently the gaps between them are be filled using closing routines. However this is slow due to the large gaps needing to be filled and an alternative method is being worked on.
+
+Background Elimination
+----------------------
+
+Using the closed binary edge matrix the solid data is highlighted.
+![Original](https://github.com/Materials-Informatics-Class-Fall2015/MIC-Microparticle-distribution/blob/gh-pages/img/Image%20Processing/contrast.jpg?raw=true)
+![Masked Data](https://github.com/Materials-Informatics-Class-Fall2015/MIC-Microparticle-distribution/blob/gh-pages/img/Image%20Processing/contrastMasked.jpg?raw=true)
