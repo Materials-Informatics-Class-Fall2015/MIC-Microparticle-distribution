@@ -12,6 +12,7 @@ The first step in the image processing actually happens after the scan are taken
  2. Background noise of similar intensity to the materials of interest
  2. Empty space/orientation of image
  3. Elimination of fixtures/contaminants from image
+
 Contrast
 --------
 The first major issue is the low contrast of the images. The figure below is how the images appear when first outputted by CT software. The low contrast between the background, the membrane material, and the fixturing (tape and backing plastic) makes it difficult to separate out the membrane from the other regions that are not of interest.
@@ -25,3 +26,4 @@ For grayscale images, the intensities range from 0 (black) to 255 (white).  To h
 While the linear scaling does not help us numerically to segment the image, it does help highlight some of the other issues.
 Background Noise
 ----------------
+Even with the initial thresholding done by the CT software, background scatter/noise is apparent in the image when scaled. The 
