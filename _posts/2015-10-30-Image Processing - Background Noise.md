@@ -14,7 +14,9 @@ The first step in the image processing actually happens after the scan are taken
  3. Elimination of fixtures/contaminants from image
 
 ----------
-## Contrast ##
+
+Contrast
+--------
 The first major issue is the low contrast of the images. The figure below is how the images appear when first outputted by CT software. The low contrast between the background, the membrane material, and the fixturing (tape and backing plastic) makes it difficult to separate out the membrane from the other regions that are not of interest.
 
 ![Grayscale image](https://github.com/Materials-Informatics-Class-Fall2015/MIC-Microparticle-distribution/blob/gh-pages/img/Image%20Processing/grayscale.jpg?raw=true)
@@ -22,3 +24,5 @@ The first major issue is the low contrast of the images. The figure below is how
 For grayscale images, the intensities range from 0 (black) to 255 (white).  To help with visualization, the image intensity was linearly scaled so that the lowest value is set to 0 and the highest to 255. The scaled image is shown below.
 
 ![Contrasted image](https://github.com/Materials-Informatics-Class-Fall2015/MIC-Microparticle-distribution/blob/gh-pages/img/Image%20Processing/contrast.jpg?raw=true)
+
+While the linear scaling does not help us numerically, it does help highlight some of the other issues. 
