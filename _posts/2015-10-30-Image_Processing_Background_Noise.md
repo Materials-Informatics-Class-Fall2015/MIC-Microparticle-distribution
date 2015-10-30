@@ -1,7 +1,7 @@
 ---
 layout:     	post
 title:      	Image Processing: Background Noise
-date:       	2015-01-01 12:00
+date:       	2015-10-30 12:23
 author:     Peter Griffiths
 tags:         result
 ---
