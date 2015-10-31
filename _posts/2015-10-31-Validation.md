@@ -15,14 +15,14 @@ Fig. 1 – Slot-die extrusion membrane process diagram
 
 Fig. 2 below shows the samples created by setting the height ratio to 0.25, 0.50, 0.75, and 1.00 respectively. Notice how the sample for h/H = 0.25 has a particle distribution that is more biased toward the bottom of the membrane, while the samples with h/H = 0.75 and h/H = 1.00 are biased toward the top. Also notice how there is no perceived bias for the h/H = 0.50 sample.
 
-![Fig 1](https://github.com/Materials-Informatics-Class-Fall2015/MIC-Microparticle-distribution/blob/gh-pages/img/Presentation2/Picture2.png?raw=true)
+![Fig 2](https://github.com/Materials-Informatics-Class-Fall2015/MIC-Microparticle-distribution/blob/gh-pages/img/Pics%20for%20posts/PostPic_MatLab%20Samples.png?raw=true)
 Fig. 2 – Generated samples with various height ratios
 
 
 These samples were evaluated using two-point statistic MATlab code sound on the Material Informatics GitHub account. The function “PadState.m” creates a padding around the sample (as it is not recurring) and the function “CorrMaster.m” generates an auto-correlation. It is also easy to find the volume fraction as calculated by the auto-correlation using the CorrMaster function. This is valuable as the volume fraction gained from the two-point statistics was consistently within 5% of the volume fraction set in the creation of the samples. This helps to validate the accuracy of the CorrMaster function when used with our sample data to generate auto-correlations. The auto-correlations for each of the samples shown in Fig. 2 are shown below in Fig. 3.
 
 
-![Fig 1](https://github.com/Materials-Informatics-Class-Fall2015/MIC-Microparticle-distribution/blob/gh-pages/img/Presentation2/Picture2.png?raw=true)
+![Fig 3](https://github.com/Materials-Informatics-Class-Fall2015/MIC-Microparticle-distribution/blob/gh-pages/img/Pics%20for%20posts/PostPic_autocorrelations.png?raw=true)
 Fig. 3 – Auto-correlations of generated samples with varying height ratios
 
 
