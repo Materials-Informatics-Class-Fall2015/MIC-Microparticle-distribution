@@ -2,7 +2,7 @@
 layout:     	post
 title:      	Project Plan
 date: 		2015-09-08 13:17
-author:     ehilton3
+author:     Ethan Hilton
 tags:         
 ---
 
