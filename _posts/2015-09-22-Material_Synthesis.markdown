@@ -2,7 +2,7 @@
 layout:     	post
 title:      	Material Synthesis
 date:       	2015-09-22 12:00
-author:     pgriffiths3
+author:       Peter Griffiths
 tags:         
 ---
 
