@@ -2,7 +2,7 @@
 layout:     	post
 title:      	Update Presentation 2 (Blog post for comments)
 date:       	2015-10-12 16:32
-author:     	Peter Griffith
+author:     	Peter Griffiths
 tags:         
 ---
 The following pictures are a PowerPoint version of the presentation given October 7, 2015. Please use this posts for comments about our presentation.
