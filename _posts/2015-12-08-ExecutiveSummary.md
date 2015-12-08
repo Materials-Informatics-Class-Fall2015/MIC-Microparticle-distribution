@@ -14,7 +14,7 @@ Slot-die extrusion is one industrial scale process that is commonly used to manu
 For more information on the motivation behind this project, read our Background post [here](http://materials-informatics-class-fall2015.github.io/MIC-Microparticle-distribution/2015/09/08/background/ "Background").
 
 ![Fig1](https://github.com/ehilton3/Microparticle-distribution/raw/gh-pages/img/Slot-die.png?raw=true "Slot Die Diagram")
-###### Fig. 1 - Slot Die Diagram
+##### Fig. 1 - Slot Die Diagram
 
 ## Project Plan
 
@@ -66,7 +66,7 @@ To read more on our many attempts in image-processing, read the posts [here](htt
 Eventually, we had to come to the realization that we would not get perfect images from the experimental data. We therefor conceded to marking the edges of the manually (read about this process [here](http://materials-informatics-class-fall2015.github.io/MIC-Microparticle-distribution/2015/11/22/Painting/ "Manual Edge Detection")) as shown below. This allowed us to finally get to usable images from the experimental data.
 
 ![Fig. 6](https://github.com/Materials-Informatics-Class-Fall2015/MIC-Microparticle-distribution/blob/gh-pages/img/Painting%20post/Fig%205.png?raw=true)
-###### Fig. 6 - Processed Image with Manuallt Drawn Edges
+##### Fig. 6 - Processed Image with Manuallt Drawn Edges
 
 However, only two of the data sets produced high-quality images. We therefore had to make more fake data. This time, the simulated data was modeled off the experimental data collected and altered to allow for a more robust data-set. The formation of this simulated data is discussed [here](http://materials-informatics-class-fall2015.github.io/MIC-Microparticle-distribution/2015/12/07/Fake-ish%20Data%20-%20Part%202/ "Fake-ish Data Pt. 2").
 
