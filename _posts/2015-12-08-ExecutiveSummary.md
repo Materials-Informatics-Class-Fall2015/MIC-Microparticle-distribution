@@ -20,8 +20,8 @@ SLOT DIE PICTURE
 The goal of this project is to establish a process-structure link between the geometric settings during casting to the final micro particle distribution of polymer particle composite membranes manufactured using slot-die extrusion. 
 The first step is to design an experiment in which the die geometry is changed to see the impact upon particle distributions. To keep the initial experiments simple only a single parameter will be changed the gap height of die from the substrate (H). We plan on varying the gap height while keeping the film thickness (h), substrate velocity (U), volumetric flow rate (Q’) constant along with the fluid and the particle size and volumetric loading. The ratio between the film thickness and gap height (h/H) has a large influence on the velocity flow profile underneath the die and consequently the equilibrium position of particles in the fluid. 
 
-For more information on our initial Project Plan, read our post [here](http://materials-informatics-class-fall2015.github.io/MIC-Microparticle-distribution/2015/09/08/Project_Plan/).
-You can also read about our Project Workflow [here](http://materials-informatics-class-fall2015.github.io/MIC-Microparticle-distribution/2015/09/26/Mowrkflow/).
+For more information on our initial Project Plan, read our post [here](http://materials-informatics-class-fall2015.github.io/MIC-Microparticle-distribution/2015/09/08/Project_Plan/ "Project Plan").
+You can also read about our Project Workflow [here](http://materials-informatics-class-fall2015.github.io/MIC-Microparticle-distribution/2015/09/26/Mowrkflow/ "Workflow").
 
 ## Process
 
@@ -30,8 +30,8 @@ The slot-die process allows for a high control of the film thickness by changing
 
 CASTING WINDOW PICTURE
 
-For more information about the Material Synthesis, read the post [here](http://materials-informatics-class-fall2015.github.io/MIC-Microparticle-distribution/2015/09/22/Material_Synthesis/).
-For more information about the Process Parameters, read the post [here](http://materials-informatics-class-fall2015.github.io/MIC-Microparticle-distribution/2015/09/29/Process/).
+For more information about the Material Synthesis, read the post [here](http://materials-informatics-class-fall2015.github.io/MIC-Microparticle-distribution/2015/09/22/Material_Synthesis/ "Material Synthesis").
+For more information about the Process Parameters, read the post [here](http://materials-informatics-class-fall2015.github.io/MIC-Microparticle-distribution/2015/09/29/Process/ "Process - The P in PSP").
 
 ## Setbacks and Responses
 
@@ -43,8 +43,8 @@ FAKE DATA IMAGE
 
 We then ran two-point statistics on the fake data to ensure our files were generating accurate results in a hope to streamline data analysis once we received data. However, we ran into our second setback when we finally received data. This setback is discussed in the next section.
 
-To read more about creating fake data, read the post [here](http://materials-informatics-class-fall2015.github.io/MIC-Microparticle-distribution/2015/10/15/Waiting/).
-To read more about validating the fake data with two-point statistics, read the post [here](http://materials-informatics-class-fall2015.github.io/MIC-Microparticle-distribution/2015/10/15/Validation/).
+To read more about creating fake data, read the post [here](http://materials-informatics-class-fall2015.github.io/MIC-Microparticle-distribution/2015/10/15/Waiting/ "Working While We Wait").
+To read more about validating the fake data with two-point statistics, read the post [here](http://materials-informatics-class-fall2015.github.io/MIC-Microparticle-distribution/2015/10/15/Validation/ "Validation of 'Fake' Data").
 
 ## Image Processing
 
@@ -54,16 +54,16 @@ ORIGINAL CT IMAGE
 
 CLEANED IMAGE (WITH TAPE/PLASTIC)
 
-To read more on our many attempts in image-processing, read the posts [here](http://materials-informatics-class-fall2015.github.io/MIC-Microparticle-distribution/2015/10/30/Image%20Processing%20-%20Issues/), [here](http://materials-informatics-class-fall2015.github.io/MIC-Microparticle-distribution/2015/10/30/Image%20Processing%20-%20Background%20Noise/), and [here](http://materials-informatics-class-fall2015.github.io/MIC-Microparticle-distribution/2015/11/11/Image%20Processing%20-%20Contrast/) along with some methods on how to avoid some of these image processing problems [here](http://materials-informatics-class-fall2015.github.io/MIC-Microparticle-distribution/2015/11/22/FutureImaging/).
+To read more on our many attempts in image-processing, read the posts [here](http://materials-informatics-class-fall2015.github.io/MIC-Microparticle-distribution/2015/10/30/Image%20Processing%20-%20Issues/ "Image Processing - Issues"), [here](http://materials-informatics-class-fall2015.github.io/MIC-Microparticle-distribution/2015/10/30/Image%20Processing%20-%20Background%20Noise/ "Image Processing - Background Noise"), and [here](http://materials-informatics-class-fall2015.github.io/MIC-Microparticle-distribution/2015/11/11/Image%20Processing%20-%20Contrast/ "Image Processing - Contrast") along with some methods on how to avoid some of these image processing problems [here](http://materials-informatics-class-fall2015.github.io/MIC-Microparticle-distribution/2015/11/22/FutureImaging/ "Avoiding Image Processing Problems").
 
 ## Pushing Ahead
 
-Eventually, we had to come to the realization that we would not get perfect images from the experimental data. We therefor conceded to marking the edges of the manually (read about this process [here](http://materials-informatics-class-fall2015.github.io/MIC-Microparticle-distribution/2015/11/22/Painting/)) as shown below. This allowed us to finally get to usable images from the experimental data.
+Eventually, we had to come to the realization that we would not get perfect images from the experimental data. We therefor conceded to marking the edges of the manually (read about this process [here](http://materials-informatics-class-fall2015.github.io/MIC-Microparticle-distribution/2015/11/22/Painting/ "Manual Edge Detection")) as shown below. This allowed us to finally get to usable images from the experimental data.
 
-However, only two of the data sets produced high-quality images. We therefore had to make more fake data. This time, the simulated data was modeled off the experimental data collected and altered to allow for a more robust data-set. The formation of this simulated data is discussed [here](http://materials-informatics-class-fall2015.github.io/MIC-Microparticle-distribution/2015/12/07/Fake-ish%20Data%20-%20Part%202/).
+However, only two of the data sets produced high-quality images. We therefore had to make more fake data. This time, the simulated data was modeled off the experimental data collected and altered to allow for a more robust data-set. The formation of this simulated data is discussed [here](http://materials-informatics-class-fall2015.github.io/MIC-Microparticle-distribution/2015/12/07/Fake-ish%20Data%20-%20Part%202/ "Fake-ish Data Pt. 2").
 
 ## Two-Point Statistics and PCA
 
 Using the usable experimental data and the simulated data, we conducted two-point statistics and developed a PCA. The PC scores are used to develop a Process-structure linkage between the process parameters of the slot-die extrusion and the structure of the thin-filmed membrane.
-More detail on this PCA and P-S linkage is described in the post [here](http://materials-informatics-class-fall2015.github.io/MIC-Microparticle-distribution/2015/12/08/PCA/).
+More detail on this PCA and P-S linkage is described in the post [here](http://materials-informatics-class-fall2015.github.io/MIC-Microparticle-distribution/2015/12/08/PCA/ "PCA").
 
