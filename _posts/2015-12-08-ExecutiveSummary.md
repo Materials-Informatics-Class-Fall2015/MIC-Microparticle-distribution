@@ -14,7 +14,7 @@ Slot-die extrusion is one industrial scale process that is commonly used to manu
 For more information on the motivation behind this project, read our Background post [here](http://materials-informatics-class-fall2015.github.io/MIC-Microparticle-distribution/2015/09/08/background/ "Background").
 
 ![Fig1](https://github.com/ehilton3/Microparticle-distribution/raw/gh-pages/img/Slot-die.png?raw=true "Slot Die Diagram")
-##### Fig. 1 - Slot Die Diagram
+#### Fig. 1 - Slot Die Diagram
 
 ## Project Plan
 
