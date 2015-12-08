@@ -10,6 +10,7 @@ tags:         result
 
 Polymer mirco/nano particle composite membranes and films have multiple applications ranging from water filtration to catalysts to paints. The particle distributions within these membranes can have critical importance to their properties and performance.
 Slot-die extrusion is one industrial scale process that is commonly used to manufacture films. The benefit of this method is that the film thickness is a function only of the mass flow rate of the solution to be coated and the substrate velocity on to which it is coated. The die geometry and material properties determine the range of velocities which defect free film can be manufactured and the main thrust of research is usually at improving the maximum speed of production.
+
 For more information on the motivation behind this project, read our Background post [here](http://materials-informatics-class-fall2015.github.io/MIC-Microparticle-distribution/2015/09/08/background/ "Background").
 
 SLOT DIE PICTURE
