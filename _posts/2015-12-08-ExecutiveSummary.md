@@ -2,7 +2,7 @@
 layout:     	post
 title:      	Executive Summary
 date:       	2015-12-08 12:33
-author:     	Materials Innovation
+author:     	Peter Griffiths and Ethan Hilton
 tags:         result
 ---
 
