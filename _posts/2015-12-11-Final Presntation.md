@@ -1,8 +1,8 @@
 ---
 layout:     	post
-title:      	Post Headline
-date:       	2015-01-01 12:00
-author:     	Materials Innovation
+title:      	Final Presentation
+date:       	2015-12-10 14:30
+author:     	Peter Griffiths and Ethan Hilton
 tags:         result
 ---
 
