@@ -3,7 +3,7 @@ layout:     	post
 title:      	Final Presentation
 date:       	2015-12-10 14:30
 author:     	Peter Griffiths and Ethan Hilton
-tags:         result
+tags:         
 ---
 
 ![Slide1](https://github.com/Materials-Informatics-Class-Fall2015/MIC-Microparticle-distribution/blob/gh-pages/img/Pics%20for%20posts/Microparticle%20Dsitribution_Final_Presentation_Griffiths_Hilton_v3/Slide1.JPG?raw=true)
